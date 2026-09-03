@@ -37,10 +37,10 @@ format:
     anchor-sections: false
     lang: en
     include-in-header:
-      text: |
-        <meta name="robots" content="index, follow">
-        <meta name="author" content="Shuang Shi">
-        <meta name="google-site-verification" content="CkfwWDAMqXzK1T_UtA848pAHugSqE-0qfeuj86d8yhc">
+      - text: |
+          <meta name="robots" content="index, follow">
+          <meta name="author" content="Shuang Shi">
+      - file: verification.html
 
 execute:
   freeze: auto
