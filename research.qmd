@@ -1,0 +1,88 @@
+---
+title: "RESEARCH"
+body-classes: research-page
+description: "Research by Shuang Shi in economic history, development economics, and regional economics."
+pagetitle: "Research | Shuang Shi"
+---
+
+## Working Papers
+
+::: {.paper-list}
+::: {.paper-entry}
+::: {.paper-heading}
+### The Intellectual Origin of Legal Institution and Modern Banking
+
+::: {.status-badge}
+R&R, J. PUBLIC ECONOMICS
+:::
+:::
+
+<p class="paper-authors">with Ting Chen, Chong Liu, and Yuling Zhu</p>
+:::
+
+::: {.paper-entry}
+::: {.paper-heading}
+### Millet, Rice, and Isolation: Origins and Persistence of the World's Most Enduring Mega-State
+
+::: {.status-badge}
+R&R, JEEA
+:::
+:::
+
+<p class="paper-authors">with James Kung, Omer Ozak, and Louis Putterman</p>
+:::
+
+::: {.paper-entry}
+::: {.paper-heading}
+### A Blessing in Disguise: The Long-Run Impact of Climate Risk on Economic Development
+:::
+
+<p class="paper-authors">with Chengjiu Sun</p>
+:::
+
+::: {.paper-entry}
+::: {.paper-heading}
+### Against Mother Nature? The Long-Run Consequences of China’s Grand Canal, 1128–1855 CE
+:::
+
+<p class="paper-authors">with Ruobing Liang</p>
+:::
+
+::: {.paper-entry}
+::: {.paper-heading}
+### Transportation Infrastructure, Political Trust, and China’s Long-term Development
+:::
+
+<p class="paper-authors">Shuang Shi</p>
+
+<p class="paper-funding">Funded by the National Natural Science Foundation of China.</p>
+:::
+:::
+
+## Publications (Chinese)
+
+::: {.publication-list}
+::: {.publication-entry}
+::: {.publication-heading}
+#### Educational Inequality and Health Consequences for the Labor Force in Transitional China
+
+<span class="publication-year">2014</span>
+:::
+
+<p class="paper-authors">Hua Ye and Shuang Shi</p>
+
+<p class="publication-journal">Journal of Sun Yat-sen University Social Science Edition</p>
+:::
+
+::: {.publication-entry}
+::: {.publication-heading}
+#### Educational Gradient in Health and the Determinants of Health Disparity Between Rural and Urban Residents
+
+<span class="publication-year">2015</span>
+:::
+
+<p class="paper-authors">Hua Ye and Shuang Shi</p>
+
+<p class="publication-journal">Academic Research</p>
+:::
+:::

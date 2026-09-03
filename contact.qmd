@@ -1,0 +1,14 @@
+---
+title: "Contact"
+description: "Contact information for Shuang Shi at the School of Economics, Nankai University."
+pagetitle: "Contact | Shuang Shi"
+---
+
+**Shuang Shi**  
+Assistant Professor of Economics  
+School of Economics  
+Nankai University  
+Tianjin, China
+
+Email and office details will be added here.
+

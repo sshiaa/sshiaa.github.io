@@ -1,0 +1,29 @@
+---
+title: "Curriculum Vitae"
+description: "Curriculum vitae of Shuang Shi, Assistant Professor of Economics at Nankai University."
+pagetitle: "CV | Shuang Shi"
+---
+
+## Academic position
+
+**Assistant Professor of Economics**  
+School of Economics, Nankai University
+
+## Research interests
+
+- Economic History
+- Development Economics
+- Regional Economics
+
+## Education
+
+Education details will be added here.
+
+## Publications and working papers
+
+Research details will be added here.
+
+## Teaching
+
+Teaching details will be added here.
+

@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - robots.txt
+
+website:
+  title: "Shuang Shi"
+  description: "Academic website of Shuang Shi, Assistant Professor of Economics at Nankai University."
+  site-url: "https://sshiaa.github.io"
+  favicon: favicon.svg
+  search: false
+  navbar:
+    background: light
+    title: "Shuang SHI"
+    logo: nankai-emblem.png
+    logo-alt: "Nankai University"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    left: "© 2026 Shuang Shi"
+    right: "Built with [Quarto](https://quarto.org/)"
+  open-graph:
+    locale: en_US
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    lang: en
+    include-in-header:
+      text: |
+        <meta name="robots" content="index, follow">
+        <meta name="author" content="Shuang Shi">
+
+execute:
+  freeze: auto

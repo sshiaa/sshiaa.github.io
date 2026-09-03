@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+body-classes: teaching-page
+description: "Teaching information and courses taught by Shuang Shi at Nankai University."
+pagetitle: "Teaching | Shuang Shi"
+---
+
+::: {.course-list}
+::: {.course-entry}
+## Chinese Economic History
+
+::: {.course-meta}
+<span><strong>Term:</strong> Spring</span>
+<span><strong>Offered:</strong> 2023–2026</span>
+:::
+
+This is a compulsory course for undergraduate students and does not require any prerequisites.
+:::
+
+::: {.course-entry}
+## Data Visualization for Economic Analysis
+
+::: {.course-meta}
+<span><strong>Term:</strong> Fall</span>
+<span><strong>Offered:</strong> 2023–2026</span>
+:::
+
+This course is an elective for first-year PhD students and requires basic coding experience with software such as Stata, LaTeX, MATLAB, or Python. The primary programming language used in this course is R. Students who audit the course are also required to complete all weekly assignments.
+:::
+:::

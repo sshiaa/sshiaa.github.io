@@ -1,0 +1,21 @@
+# Quarto working files
+/.quarto/
+/_freeze/
+
+# The rendered docs/ directory is intentionally tracked for GitHub Pages.
+
+# R and Python session files
+.Rhistory
+.RData
+.Ruserdata
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+**/*.quarto_ipynb
